@@ -1,9 +1,9 @@
 import "./globals.css";
 
 //TODO CHANGE THE FONT HERE
-import { Inter } from "next/font/google";
+import { Cabin } from "next/font/google";
 
-const inter = Inter({ subsets: ["latin"] });
+const inter = Cabin({ subsets: ["latin"] });
 ////////////////////////////////////////////
 export const metadata = {
   title: "The Pristine Wilderness",
